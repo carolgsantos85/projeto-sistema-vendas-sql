@@ -111,6 +111,9 @@ GROUP BY c.nome
 HAVING total_gasto > 3000
 ORDER BY total_gasto DESC;
 ```
+### 🧭 Diagrama ER
+
+![Diagrama ER do sistema](diagrama-er.png)
 
 ---
 Feito com ❤️ por [Caroline Gonçalves Santos](https://github.com/carolgsantos85)
