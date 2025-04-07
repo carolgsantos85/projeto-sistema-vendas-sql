@@ -59,3 +59,20 @@ Os scripts estão separados por função:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/carolgsantos85/projeto-sistema-vendas-sql.git
+
+---
+
+---
+
+## 📘 Aprendizados
+
+Durante o desenvolvimento deste projeto, pude reforçar e praticar conceitos fundamentais de SQL, como:
+
+- Criação de tabelas com relacionamentos entre elas.
+- Uso de `JOINs` para unir dados de diferentes tabelas.
+- Aplicação de filtros com `WHERE`, `GROUP BY`, `HAVING` e `ORDER BY`.
+- Organização de consultas para extrair insights relevantes de uma base de dados.
+
+Esse projeto contribuiu para minha jornada de transição de carreira para a área de dados e foi uma ótima oportunidade para colocar a teoria em prática.
+
+   
