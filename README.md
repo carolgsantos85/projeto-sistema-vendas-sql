@@ -113,7 +113,7 @@ ORDER BY total_gasto DESC;
 ```
 ### 🧭 Diagrama ER
 
-![Diagrama ER do sistema](diagrama-er.png)
+[Diagrama ER do sistema]([diagrama-er.png](https://github.com/carolgsantos85/projeto-sistema-vendas-sql/blob/main/diagrama_er.png))
 
 ---
 Feito com ❤️ por [Caroline Gonçalves Santos](https://github.com/carolgsantos85)
